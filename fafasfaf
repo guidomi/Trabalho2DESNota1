@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>formulario</title>
+</head>
+<body>
+	<fieldset>
+	<legend class="titulo">qual seu time favorito ?</legend>
+</fieldset>
+<label for="radio-vasco"><input type="radio" name="vascao" value="vascao" id="radio-vasco">vasco</label>
+<label for="radio-botafogo"><input type="radio" name="botafogo" value="botafogo" id="radio-botafogo">botafogo</label>
+<label for="radio-bahia"><input type="radio" name="bahia" value="bahia" id="radio-bahia">bahia</label>
+<label for="radio-fortaleza"><input type="radio" name="fortaleza" value="fortaleza" id="radio-fortaleza">fortaleza</label>
+<label for="radio-santa cruz"><input type="radio" name="santacruz" value="santa-cruz" id="radio-santacruz">santa-cruz</label>
+
+
+
+
+
+</body>
+</html>

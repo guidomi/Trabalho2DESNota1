@@ -1,0 +1,35 @@
+body{
+  background:Navy
+}
+.principal{
+  background:##DCDCDC
+}
+.titulo-principal{
+text-align: center;
+font-size: 50px;
+color: red
+}
+.titulo-principal2{
+  text-align:center;
+  color: blue
+}
+#missao{
+  font-size:20px;
+  color:#DCDCDC;
+  font-style: italic;
+}
+#missao2{
+  font-size: 20px;
+  color: #DCDCDC
+}
+#missao3{
+  font-size: 20px;
+  color:#DAA520	;
+}
+.benefecios{
+  font-style: italic;
+  background: blue
+}
+.titulo3{
+  color: red;
+}
